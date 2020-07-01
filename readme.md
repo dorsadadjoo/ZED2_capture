@@ -36,6 +36,7 @@ python3 svo_recording.py [file_name.svo]
 ```
 
 It starts recording RGB and Depth videos in an SVO format. Press 'q' to exit.
+
 The code automatically creates the svo_recordings directory and saves the recordings there.
 Be careful about the file names, you may overwrite an existing file with the same name.
 
