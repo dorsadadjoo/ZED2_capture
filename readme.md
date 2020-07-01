@@ -26,7 +26,7 @@ The code automatically creates 3 directories (RGB, Depth, and Point Cloud) and s
 You can close and re-run this script at any time. It won't overwrite existing files.
 
 
-## Continous Frames
+## Continuous Frames
 
 Open a terminal and execute the svo_recording.py script and feed a name for the file to be recorded.
 
